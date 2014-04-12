@@ -1,0 +1,12 @@
+{
+  "name": "BaiduSearch",
+  "version": "1.0",
+  "description": "Copyright (c) AmmiNi",
+  "manifest_version": 2,
+  "permissions": ["tabs", "http://*/*", "https://*/*"],
+  "browser_action": {
+    "default_icon": "icon.jpg",
+	"default_title": "BaiduSearch",
+	"default_popup": "popup.html"
+  }
+}
